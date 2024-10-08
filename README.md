@@ -1,6 +1,6 @@
 # 💫 About Me:
 <a href="https://app.daily.dev/kyube_e"><img src="https://api.daily.dev/devcards/v2/EOMu3mt9qFfOJJ3Jz2ZdF.png?r=vjy&type=default" width="356" alt="Kobe Vincent Marikit's Dev Card"/></a>
-
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kobe-vincent-marikit-b08b5a284) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kobemarikit70) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/KobeVLM) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26979667) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/KobeVLM) 
